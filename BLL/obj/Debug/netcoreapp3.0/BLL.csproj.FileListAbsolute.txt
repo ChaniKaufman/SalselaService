@@ -1,0 +1,18 @@
+C:\Users\Tehila\Desktop\SalselaNew\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\Tehila\Desktop\SalselaNew\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\Tehila\Desktop\SalselaNew\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\Tehila\Desktop\SalselaNew\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Tehila\Desktop\SalselaNew\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\Tehila\Desktop\SalselaNew\‏‏תיקיה חדשה\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\Tehila\Desktop\SalselaNew\‏‏תיקיה חדשה\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\Tehila\Desktop\SalselaNew\‏‏תיקיה חדשה\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\Tehila\Desktop\SalselaNew\‏‏תיקיה חדשה\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\Tehila\Desktop\SalselaNew\‏‏תיקיה חדשה\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\Tehila\Desktop\SalselaNew\‏‏תיקיה חדשה\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\Tehila\Desktop\SalselaNew\‏‏תיקיה חדשה\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Tehila\Desktop\SalselaNew\‏‏תיקיה חדשה\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\Tehila\Desktop\SalselaNew\‏‏תיקיה חדשה\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\Tehila\Desktop\SalselaNew\‏‏תיקיה חדשה\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\Tehila\Desktop\SalselaNew\‏‏תיקיה חדשה\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\Tehila\Desktop\SalselaNew\‏‏תיקיה חדשה\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+C:\Users\Tehila\Desktop\SalselaNew\‏‏תיקיה חדשה\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
