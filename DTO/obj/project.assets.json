@@ -5789,11 +5789,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\DTO\\DTO.csproj",
+      "projectUniqueName": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\DTO\\DTO.csproj",
       "projectName": "DTO",
-      "projectPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\DTO\\DTO.csproj",
+      "projectPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\DTO\\DTO.csproj",
       "packagesPath": "C:\\Users\\Tehila\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\DTO\\obj\\",
+      "outputPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tehila\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5809,8 +5809,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\DAL\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\DAL\\DAL\\DAL.csproj"
+            "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\DAL\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\DAL\\DAL\\DAL.csproj"
             }
           }
         }

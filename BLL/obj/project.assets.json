@@ -5809,11 +5809,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\BLL\\BLL.csproj",
+      "projectUniqueName": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\BLL\\BLL.csproj",
+      "projectPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\Tehila\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\BLL\\obj\\",
+      "outputPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tehila\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5829,11 +5829,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\DAL\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\DAL\\DAL\\DAL.csproj"
+            "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\DAL\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\DAL\\DAL\\DAL.csproj"
             },
-            "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\DTO\\DTO.csproj": {
-              "projectPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\DTO\\DTO.csproj"
+            "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\DTO\\DTO.csproj"
             }
           }
         }

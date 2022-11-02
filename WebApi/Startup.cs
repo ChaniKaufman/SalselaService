@@ -40,6 +40,13 @@ namespace WebApi
             //ADD Scoped
             services.AddScoped(typeof(IDashboardDal), typeof(DashboardDal));
             services.AddScoped(typeof(IDasboardBll), typeof(Dashboard));
+
+            services.AddScoped(typeof(ICodeTableDal), typeof(CodeTableDal));
+            services.AddScoped(typeof(ICodeTableBll), typeof(CodeTableBll));
+
+            services.AddScoped(typeof(ILoginDal), typeof(LoginDal));
+            services.AddScoped(typeof(ILoginBll), typeof(LoginBll));
+
             services.AddDbContext<SalsalaQAContext>(p=> p.UseSqlServer("Server=localhost;Database=SalsalaQA;Trusted_Connection=True;"));
         }
 
@@ -62,6 +69,7 @@ namespace WebApi
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseCors("AlowAll");
 
             app.UseEndpoints(endpoints =>
             {

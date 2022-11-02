@@ -5,8 +5,8 @@ using System.Text;
 
 namespace BLL
 {
-    public interface IDasboardBll
+    public interface ICodeTableBll
     {
-        
+        public List<CodeTableDto> GetAuthorizationTypes();
     }
 }

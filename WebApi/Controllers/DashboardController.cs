@@ -12,18 +12,6 @@ namespace WebApi.Controllers
     [ApiController]
     public class DashboardController : ControllerBase
     {
-        IDasboardBll _DashboardBll;
-        public DashboardController(IDasboardBll _DashboardBll)
-        {
-            this._DashboardBll = _DashboardBll;
-        }
-
-        //שליפת רשימת כל קטגוריות
-        [HttpGet("GetAllBooks")]
-        public IActionResult GetAllBooks()
-        {
-            return Ok(_DashboardBll.GetAllDashboard());
-        }
-
+       
     }
 }

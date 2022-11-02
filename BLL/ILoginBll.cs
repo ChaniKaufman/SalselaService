@@ -5,8 +5,8 @@ using System.Text;
 
 namespace BLL
 {
-    public interface IDasboardBll
+    public interface ILoginBll
     {
-        
+        public UserDto Login(string nvUserName, string nvPassword);
     }
 }

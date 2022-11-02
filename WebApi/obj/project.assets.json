@@ -8649,11 +8649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Tehila\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tehila\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8669,8 +8669,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\‏‏תיקיה חדשה\\BLL\\BLL.csproj"
+            "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\Tehila\\Desktop\\SalselaNew\\service\\BLL\\BLL.csproj"
             }
           }
         }

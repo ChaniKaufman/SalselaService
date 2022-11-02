@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using DAL.Classes;
 using DAL.Models;
 
 namespace DTO
@@ -9,10 +10,16 @@ namespace DTO
     {
         public Auto()
         {
-            CreateMap<Tbook, DashboardDto>();
-            CreateMap<DashboardDto, Tbook>();
+            CreateMap<CodeTable, CodeTableDto>();
+            CreateMap<CodeTableDto, CodeTable>();
 
-     
+            CreateMap<Tuser,UserDto>();
+            CreateMap<UserDto, Tuser>();
+
+
+
+
+
         }
     }
 }
